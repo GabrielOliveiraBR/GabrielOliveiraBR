@@ -1,5 +1,10 @@
-### Hi there 👋
-
+## Oiee sou Gabriel Oliveira, estudante de programação e tecnologia!
+<div align="center">
+  <a href="https://github.com/GabrielOliveiraBR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielOliveiraBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOliveiraBR&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
 <!--
 **GabrielOliveiraBR/GabrielOliveiraBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
